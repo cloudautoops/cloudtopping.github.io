@@ -36,4 +36,3 @@ If you're new to cloud automation, here are some resources to help you get start
 - [Getting Started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/)
 
 &copy; 2023 Cloud Automation Inc.
-
